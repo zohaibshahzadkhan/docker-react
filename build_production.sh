@@ -1,0 +1,1 @@
+docker build -t zohaibshahzad/react_app:production .
